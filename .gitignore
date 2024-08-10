@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Debug files
+.DS_Store
+.pio
+.vscode
+platformio.ini
