@@ -1,5 +1,5 @@
 # OpenButton
-+ **OpenButton** is a tiny button system for Arduino.  
++ **OpenButton** is a tiny but useful button manager for Arduino.  
 + **Multiple button** can be managed.  
 + **Double-click** and **long-press** can be detected.  
 + **Chattering** will be reduced.  
