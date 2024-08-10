@@ -39,7 +39,7 @@ class OpenButton{
 
   /** Setup button system.
    *  _maxBtn: Maximum number of Buttons (max:32)
-   *  _times: Number of iterations for one button result (default: 3, max:255)*/
+   *  _times: Number of iterations for chattering (default: 3, max:255)*/
   void Setup(uint8_t _maxBtn=3, uint8_t _times=3){
     m_btnNum = (_maxBtn<BTN_MAX)?_maxBtn:BTN_MAX;
     m_btnWorkArr = (BtnWork*)malloc(sizeof(BtnWork)*m_btnNum);
