@@ -1,7 +1,8 @@
 # OpenButton
-+ OpenButton is a Tiny button system for Arduino.
-+ Multiple button information can be retrieved.
-+ Double-click and long-press can be detected.
++ OpenButton is a Tiny button system for Arduino.  
++ Multiple button information can be retrieved.  
++ Double-click and long-press can be detected.  
++ Chattering will be reduced.  
 
 ```
 #include <Arduino.h>
