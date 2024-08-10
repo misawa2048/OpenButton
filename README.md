@@ -4,7 +4,7 @@
 + **Double-click** and **long-press** can be detected.  
 + **Chattering** will be reduced.  
 
-**Source:**  
+**Sample:**  
 ```
 #include <Arduino.h>
 #include <OpenButton.hpp>
