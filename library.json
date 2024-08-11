@@ -1,8 +1,8 @@
 {
     "name": "OpenButton",
-    "version": "0.9.0",
-    "description": "Tiny multi button library",
-    "keywords": "Button,DoubleClick,LongClick,Chattering",
+    "version": "0.9.2",
+    "description": "A multiple button manager. double click, long hold can be detected. status of 32 buttons can be check at once by 32bit flags.",
+    "keywords": "button,doubleclick,release,hold,chattering,debounce",
     "repository":
     {
       "type": "git",
@@ -11,7 +11,7 @@
     "authors":
     [
       {
-        "name": "Tsuyoshi Misawa (ELIX)",
+        "name": "ELIX.INC",
         "email": "misawa@elix.jp",
         "url": "https://qiita.com/ELIXIR",
         "maintainer": true
