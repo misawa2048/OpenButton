@@ -88,6 +88,10 @@ class OpenButton{
       m_currentMillis = millis();
       return results;
   };
+
+  /** Call this if you need to update this with a different time interval
+   * return: Button status (Up to the first 32 buttons)
+   * The same result will be returned for times of iterations. */
   uint32_t Update(){
       uint32_t delta = millis()-m_currentMillis;
       return Update(delta);
