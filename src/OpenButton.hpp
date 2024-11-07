@@ -113,9 +113,9 @@ class OpenButton{
       bool onRelease=false;
       bool onPress=false;
       bool onDblClk=false;
-      unt32_t openMillis=0;
-      unt32_t holdMillis=0;
-      unt32_t previousHoldMillis=0;
+      uint32_t openMillis=0;
+      uint32_t holdMillis=0;
+      uint32_t previousHoldMillis=0;
       int32_t multiClickCnt=0;
       void reset(){
         gpio = -1;

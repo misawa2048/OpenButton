@@ -1,6 +1,6 @@
 {
     "name": "OpenButton",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A multiple button manager. double click, long hold can be detected. status of 32 buttons can be check at once by 32bit flags.",
     "keywords": "button,doubleclick,release,hold,chattering,debounce",
     "repository":
